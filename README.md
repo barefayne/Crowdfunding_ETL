@@ -17,17 +17,17 @@ The instructions for this mini project are:
 
 ### Category and Subcategory DataFrames
 
-[Alternate image text](/Images/category_df.png)
+![Alternate image text](/Images/category_df.png)
 
-[Alternate image text](/Images/subcategory_df.png)
+![Alternate image text](/Images/subcategory_df.png)
 
 ### Campaign DataFrame
 
-[Alternate image text](/Images/campaign_df.png)
+![Alternate image text](/Images/campaign_df.png)
 
 ### Contacts DataFrame
 
-[Alternate image text](/Images/contacts_df.png)
+![Alternate image text](/Images/contacts_df.png)
 
 ### Crowdfunding Database ERD
 
